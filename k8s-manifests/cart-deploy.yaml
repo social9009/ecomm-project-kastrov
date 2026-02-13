@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: cart-service
-          image: kastrov/cart-service:2
+          image: hitfast/cart-service:2
           imagePullPolicy: Always
 
           ports:

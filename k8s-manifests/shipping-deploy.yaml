@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: shipping-service
-          image: kastrov/shipping-service:2
+          image: hitfast/shipping-service:2
           imagePullPolicy: Always
 
           ports:

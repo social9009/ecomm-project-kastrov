@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend-service
-          image: kastrov/frontend-service:2
+          image: hitfast/frontend-service:2
           imagePullPolicy: Always
 
           ports:
